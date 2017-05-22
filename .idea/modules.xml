@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CalculadoraArea.iml" filepath="$PROJECT_DIR$/CalculadoraArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraDeArea.iml" filepath="$PROJECT_DIR$/CalculadoraDeArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
