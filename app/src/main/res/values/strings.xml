@@ -12,6 +12,7 @@
     <string name="altura">Altura : </string>
     <string name="raio">Raio :</string>
     <string name="title_activity_calcala_circulo">CalcalaCirculoActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
 
 
 </resources>
